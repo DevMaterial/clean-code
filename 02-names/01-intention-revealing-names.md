@@ -61,3 +61,5 @@ The simplicity of this code remains the same, but the *implicity* has been great
 * ```var currentNum``` holds our current number.
 * The intention of ```var numArray``` is to hold an array of numbers.
 * When ```function addNumber()``` gets invoked, ```var currentNum``` gets incremented by 1 and pushed to the array to increase the number sequence.
+
+Stay hungry, Stay foolish.
