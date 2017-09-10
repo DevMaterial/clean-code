@@ -8,7 +8,7 @@ If you use the search feature on your text editor to locate ```listOfNames```, i
 
 On the other hand, if you lookup ```e```, your search would result in numerous targeted letters scattered across the file. It could find letter ```e``` from variable names, function names, local functions with ```e``` as the parameter name, object methods, and so on.
 
-Take this code for example:
+*Take this code for example:*
 ```
 var listOfNames = [Jimmy, Ethan, Justine, Dylan];
 var e = [Johnny, Jean, Sam, Eddie];
@@ -28,4 +28,4 @@ Take a look at the code and try to locate the number of ```listOfNames```. Now t
 
 As you can tell, there are much more of the letter ```e```. Not only do we locate the name of the variable we are looking for, we also locate a ton of redundant "names" that we did not intend to look up.
 
-Stay hungry, stay foolish
+Stay hungry, stay foolish.
