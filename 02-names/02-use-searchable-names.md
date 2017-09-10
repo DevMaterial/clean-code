@@ -28,4 +28,4 @@ Take a look at the code and try to locate the number of ```listOfNames```. Now t
 
 As you can tell, there are much more of the letter ```e```. Not only do we locate the name of the variable we are looking for, we also locate a ton of redundant "names" that we did not intend to look up.
 
-Stay hungry, stay foolish.
+*Stay hungry, stay foolish.*
